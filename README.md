@@ -1,2 +1,7 @@
-# firepieces
-Computer Science graduate passionate about Python, AI, and Web Development. Building automation tools, websites, and practical software solutions. Interested in AI, 3D design, and open-source projects. Continuously learning new technologies and improving my skills. Open to freelance projects and collaborations.
+# Hi, I'm Vignesh 👋
+
+🎓 Computer Science Graduate from India.
+💻 Passionate about Python, AI Automation, Web Development, and 3D Design.
+🚀 Building automation tools, modern web applications, and creative digital solutions.
+📚 Continuously learning new technologies and contributing through personal projects.
+🤝 Open to freelance opportunities, collaborations, and open-source contributions.
